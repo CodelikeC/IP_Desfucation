@@ -1,5 +1,3 @@
----
-
 # 🛡️ IP_Desfucation
 
 **Everything you need to know about IP obfuscation in malware development — for educational and research purposes only.**  
